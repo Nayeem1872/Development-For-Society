@@ -512,6 +512,22 @@ header {
       color: #f7a900; }
     .about-us .image-part .about-quick-box .about-qcard .blu {
       color: #21d7d9; }
+    .ddd{
+      font-family: 'https://kinsta.com/blog/best-google-fonts/#2-open-sans';
+    }
+    .nos{
+      list-style-type:circle;
+    }
+    .rrr{
+      font-family: 'https://kinsta.com/blog/best-google-fonts/#2-open-sans';
+    }
+    .fff{
+      font-family: 'https://kinsta.com/blog/best-google-fonts/#5-oswald';
+    }
+    .ppp{
+      font-size: 2rem;
+      font-family:'https://kinsta.com/blog/best-google-fonts/#5-oswald' ;
+    }
 
 /* ===================================== Events Home CSS ================================== */
 .events {
