@@ -388,7 +388,14 @@ header {
   font-size: 66px;
   font-weight: 600;
   color: #fff;
-  letter-spacing: -3px; }
+  /* letter-spacing: -3px; */
+  text-align: center;
+
+  /* position: absolute; */
+  font-family: 'Roboto Mono', sans-serif;
+ 
+
+}
 
 .slider-text {
   margin-bottom: 20px;
@@ -520,13 +527,24 @@ header {
     }
     .rrr{
       font-family: 'https://kinsta.com/blog/best-google-fonts/#2-open-sans';
+      text-align: justify;
+      text-justify: inter-word;
     }
     .fff{
       font-family: 'https://kinsta.com/blog/best-google-fonts/#5-oswald';
+      text-align: justify;
+      text-justify: inter-word;
     }
     .ppp{
       font-size: 2rem;
       font-family:'https://kinsta.com/blog/best-google-fonts/#5-oswald' ;
+      text-align: justify;
+      text-justify: inter-word;
+    }
+    .lll{
+      font-family: TimesNewRoman, "Times New Roman";
+      text-align: justify;
+      text-justify: inter-word;
     }
 
 /* ===================================== Events Home CSS ================================== */
